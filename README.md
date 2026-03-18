@@ -361,7 +361,8 @@ MIT License - see LICENSE for details.
 
 ---
 
-**Built with ❤️ by Eric Andrade** 
+**Built with ❤️ by Eric Andrade**
+
 **Updated with ❤️ by Lunatic16**
 
 *Version 1.3.0 | Last updated: March 2026*
